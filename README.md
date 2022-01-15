@@ -1,6 +1,6 @@
 # 🌈IlusionOfCubeWave🌈
 
-##Background😁
+## Background😁
 I have always hated math 😣😣, and I felt like I somehow need to reduce that wrath for it, as its a nice subject and it doesnt deserve my eye roll.
 So, I deceided to learn math by making fun projects that are not only a feast to the eyes, but teach me a lot of concept of how animations work. 
 And there u go, I made a cubeWave.💁‍♀️💁‍♀️😋
@@ -11,6 +11,7 @@ And there u go, I made a cubeWave.💁‍♀️💁‍♀️😋
   <img src="https://github.com/JustARandomDude4/IlusionOfCubeWave/blob/gh-pages/CubeIllusion.gif" width="1000" title="Final Results">
 </p>
 
+You can also check the html page of it.(I will later make it a much nicer version by adding some more functionalities cuz I am lazy as shit😪😪)
 ## How I did it👾👾👾:
 I used p5.js which is a javascript library used for animations and graphics.
 I did the coding in the p5.js editor, which is available for free.
