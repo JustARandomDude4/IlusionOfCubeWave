@@ -1,4 +1,4 @@
-# IlusionOfCubeWave
+# 🌈IlusionOfCubeWave🌈
 
 ##Background😁
 I have always hated math 😣😣, and I felt like I somehow need to reduce that wrath for it, as its a nice subject and it doesnt deserve my eye roll.
@@ -8,7 +8,7 @@ And there u go, I made a cubeWave.💁‍♀️💁‍♀️😋
 ## Here's my version of illusion of a CubeWave👀👀:
 
 <p align="center">
-  <img src="https://github.com/JustARandomDude4/IlusionOfCubeWave/blob/gh-pages/CubeIllusion.gif" width="800" title="Final Results">
+  <img src="https://github.com/JustARandomDude4/IlusionOfCubeWave/blob/gh-pages/CubeIllusion.gif" width="1000" title="Final Results">
 </p>
 
 ## How I did it👾👾👾:
